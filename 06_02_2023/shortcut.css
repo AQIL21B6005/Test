@@ -1,0 +1,17 @@
+p{
+    margin: 10px 10px 10px 10px; /*  top right bottom left   */
+    margin: 10px 20px;     /* top&bottom  right&left    */
+    margin: 10px 20px 30px;
+}
+
+
+
+div{
+    background-color: ;
+    background-image: ;
+    background-repeat: ;
+    background-position: ;
+
+    background: #cccccc;
+
+}
